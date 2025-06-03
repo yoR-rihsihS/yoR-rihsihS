@@ -29,7 +29,7 @@
 - PyTorch, Numpy, OpenCV
     </td>
     <td valign="top" align="center" width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yor-rihsihs&show_icons=true&locale=en" alt="yor-rihsihs" style="min-width: 200px; max-width: 100%;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yor-rihsihs&show_icons=true&locale=en" alt="yor-rihsihs" />
     </td>
   </tr>
 </table>
