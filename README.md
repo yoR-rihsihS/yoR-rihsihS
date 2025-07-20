@@ -1,8 +1,8 @@
 ![Header](./header.png)
 
 
-
-<table width="100%">
+<img src="https://komarev.com/ghpvc/?username=yor-rihsihs&label=Profile%20views&color=0e75b6&style=flat" alt="yor-rihsihs"/>
+<!-- <table width="100%">
   <tr>
     <td>
       <img src="https://komarev.com/ghpvc/?username=yor-rihsihs&label=Profile%20views&color=0e75b6&style=flat" alt="yor-rihsihs"/>
@@ -16,7 +16,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
