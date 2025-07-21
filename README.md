@@ -1,7 +1,14 @@
 ![Header](./header.png)
 
 
-<img src="https://komarev.com/ghpvc/?username=yor-rihsihs&label=Profile%20views&color=0e75b6&style=flat" alt="yor-rihsihs"/>
+
+![yor-rihsihs](https://komarev.com/ghpvc/?username=yor-rihsihs&label=Profile%20views&color=0e75b6&style=flat)
+![Status](https://img.shields.io/badge/currently-online-brightgreen)
+![Playing](https://img.shields.io/badge/playing-nothing-red)
+![Reading](https://img.shields.io/badge/reading-gans-cyan)
+![Coding](https://img.shields.io/badge/coding-gans-green)
+![Listening](https://img.shields.io/badge/listening%20to-aaja_piya-pink)
+
 <!-- <table width="100%">
   <tr>
     <td>
@@ -21,11 +28,6 @@
 
 
 ## 🧔 About me
-![Status](https://img.shields.io/badge/currently-online-brightgreen)
-![Playing](https://img.shields.io/badge/playing-nothing-red)
-![Reading](https://img.shields.io/badge/reading-gans-cyan)
-![Coding](https://img.shields.io/badge/coding-gans-green)
-![Listening](https://img.shields.io/badge/listening%20to-aaja_piya-pink)
 
 - 🎓 **M.Tech in Artificial Intelligence** at **IISc Bangalore**
 - 🔬 Researcher at **Spectrum Lab, IISc**, focusing on:
